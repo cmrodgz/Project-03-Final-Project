@@ -3,7 +3,7 @@
 
 ## Project Overview
 This repository has the complete project proposal and prototype website for my clothing brand **Enrich Apparel**.
-The purpose of this project is to simulate a realistic scenario that covers the launch of a small business including several principles of project management. 
+The purpose of this project is to simulate a realistic scenario that covers the launch of a small business, including several principles of project management. 
 The prototype website is simple and focused on being well structured and consistent in style. 
 
 ## Project Goals
@@ -18,7 +18,7 @@ The scope.md, plan.md, and retrospective.md are located in the docs/ folder.
 
 ## Live Website and Documentation Folder Link
 Live Website - 
-https://github.com/cmrodgz/Project-03-Final-Project 
+file:///C:/Users/ceelo/OneDrive/Documents/GitHub/project-03-final-project/index.html
 
 Documentation Folder Link - 
 https://github.com/cmrodgz/Project-03-Final-Project/tree/main/project-03-final-project/docs 
