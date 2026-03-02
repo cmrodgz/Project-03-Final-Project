@@ -16,3 +16,9 @@ The prototype website is simple and focused on being well structured and consist
 The scope.md, plan.md, and retrospective.md are located in the docs/ folder. 
 
 ## Live Website and Documentation Folder Link
+Live Website - 
+https://github.com/cmrodgz/Project-03-Final-Project 
+
+Documentation Folder Link - 
+https://github.com/cmrodgz/Project-03-Final-Project/tree/main/project-03-final-project/docs 
+
