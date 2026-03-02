@@ -18,7 +18,7 @@ The scope.md, plan.md, and retrospective.md are located in the docs/ folder.
 
 ## Live Website and Documentation Folder Link
 Live Website - 
-file:///C:/Users/ceelo/OneDrive/Documents/GitHub/project-03-final-project/index.html
+[file:///C:/Users/ceelo/OneDrive/Documents/GitHub/project-03-final-project/index.html](https://cmrodgz.github.io/Project-03-Final-Project/) 
 
 Documentation Folder Link - 
 https://github.com/cmrodgz/Project-03-Final-Project/tree/main/project-03-final-project/docs 
